@@ -73,5 +73,6 @@ I'm particularly interested in combining these domains to build innovative, real
 </p>
 
 ---
+💡 "Advancing the frontiers of artificial intelligence through innovative engineering"
 
 ![snake gif](https://github.com/saidoztrk/saidoztrk/blob/output/github-contribution-grid-snake.gif)
