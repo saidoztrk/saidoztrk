@@ -54,7 +54,7 @@ I'm particularly interested in combining these domains to build innovative, real
 
 ### 🐍 Watch the Snake Eat My Contributions
 
-![snake gif](https://github.com/saidoztrk/saidoztrk/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/saidoztrk/saidoztrk/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
