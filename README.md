@@ -52,8 +52,8 @@ I'm particularly interested in combining these domains to build innovative, real
 
 ---
 
-
 ![snake gif](https://github.com/saidoztrk/saidoztrk/blob/output/github-contribution-grid-snake.gif)
+
 
 ---
 
