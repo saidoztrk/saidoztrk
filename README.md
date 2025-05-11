@@ -57,10 +57,10 @@ I'm particularly interested in combining these domains to build innovative, real
 ### 📊 Impact Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saidoztrk&show_icons=true&theme=radical" alt="Said's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidoztrk&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saidoztrk&show_icons=true&theme=radical" alt="Said's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidoztrk&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 ---
 
